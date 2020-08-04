@@ -1,0 +1,11 @@
+			******Description about the solution******
+1.I had Taken Test data from the pdf file and created PyramindInput.txt file.
+Please extract this file from the zipped folder and use this as input file for the Browse button.
+
+2.Created solution in C# for getting maximum sum.Main folders below.
+
+GUI-> This folder contains Windows Form for reading user input.
+BL-> Contains main logic for calculation.
+FileManipulation-> contains code for reading the file and returning the text content.
+FileValidation-> This is for validation purpose and for returning string representation as numbers.
+
